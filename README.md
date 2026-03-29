@@ -21,9 +21,6 @@ https://landbot.online/v3/H-2564958-B7WCKCFAPJR2W5YZ/index.html
 ## 🎯 Use Case
 TicketSwift acts as a virtual travel assistant, saving time and effort by providing quick, reliable, and budget-friendly travel suggestions.
 
-## 🤝 Collaboration
-Developed as part of an innovative project exploring AI applications in travel and automation.
-
 ## 📌 Future Improvements
 - Real-time booking integration
 - Personalized travel recommendations
